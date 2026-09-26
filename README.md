@@ -377,13 +377,13 @@ Con el mismo archivo, la misma semilla y las mismas versiones de software, el sc
 
 ## 17. Cita, autoría y licencia
 
-**Autor:** Cristhian Camilo Ibáñez · Doctorando, Universidad de Sucre (Colombia)
-**Director de tesis:** Prof. Fernando Hernández
+**Autor:** Prof. Fernando Hernández, Universidad de la Costa (Colombia)
+
 
 Si utiliza este código, cite:
 
 ```text
-Ibáñez, C. C. (2026). DUI 2026: Análisis final con trazabilidad del Modo de Innovación DUI
+Hernandez, F. (2026). DUI 2026: Análisis final con trazabilidad del Modo de Innovación DUI
 [Software]. GitHub. https://github.com/CCIBANEZB/<nombre-del-repositorio>
 ```
 
